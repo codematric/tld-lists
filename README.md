@@ -1,11 +1,9 @@
-List of Top Level Domain Names
-
-## Data
+## List of Top Level Domain Names
 
 The data is available on :
 http://www.iana.org/domains/root/db
 
-## Preparation
+## Credit
 
 The data were copied from "The Internet Assigned Numbers Authority (IANA)" site, and then posted saved as CSV and JSON file.
 
